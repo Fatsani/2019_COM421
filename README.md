@@ -2,8 +2,9 @@
 Example repo
 
 #commands
-- git status -- Check status
+
 - git init -- Initialize a local Git repository
+- git status -- Check status
 - git add [ file name ]-- Add a file to the staging area
 - git commit -m " Message " -- Commit changes
 - git pull -- Update local repository to the newest commit

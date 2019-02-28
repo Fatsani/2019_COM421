@@ -14,7 +14,8 @@ Example repo
 # Set your identity
 - open git command line
 - git config --global user.name "John Doe"
-- git config --global user.email jdoe@example.com
+- git config --global user.email "email"
+- git config --global user.password "password"
 
 # commands
 - mkdir com421
